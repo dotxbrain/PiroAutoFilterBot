@@ -1,9 +1,9 @@
 # Bot information
 SESSION = 'Media_search'
 USER_SESSION = 'User_Bot'
-API_ID = 12345
-API_HASH = '0123456789abcdef0123456789abcdef'
-BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
+API_ID = 28552183
+API_HASH = '3c24fc84a2dc724da488febe6572d79d'
+BOT_TOKEN = '7869145686:AAF95CcyytamphsQM7eUVgDLn4Ij2okvAhs'
 USERBOT_STRING_SESSION = ''
 
 # Bot settings
@@ -17,8 +17,8 @@ AUTH_USERS = []
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
-DATABASE_NAME = 'Telegram'
+DATABASE_URI = "mongodb+srv://infodotxbrain:bq3jxV3MFfHNNztx@cluster0.nrlf6aw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_NAME = 'dotxbrain'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 
